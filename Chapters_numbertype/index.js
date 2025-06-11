@@ -1,0 +1,17 @@
+var num1 = 30;
+var num2 = 40;
+var num3 = 5;
+var total = num1 + num2 + num3;
+console.log(total);
+var oct = 32769;
+var hexa = 1;
+var binary = 1352;
+console.log(oct + 1);
+var item1 = 56;
+var item2 = "50";
+// var item2Converted = Number(item2);
+console.log(item1 + +item2);
+var data;
+data = 56;
+data = "hello world";
+console.log(data);
