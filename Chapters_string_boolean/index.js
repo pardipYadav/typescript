@@ -1,0 +1,14 @@
+var str1 = "Hello world";
+var str2 = "hello new world";
+var age = 30;
+var username = "My name is pardeep";
+var info = "".concat(username, " and age is ").concat(age);
+console.log(info);
+var number = 100;
+var data = number.toString();
+var d1 = " " + number;
+console.log(typeof d1);
+var item = true;
+var other;
+other = item;
+console.log(other);
