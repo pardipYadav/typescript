@@ -1,3 +1,4 @@
+"use strict";
 var item = null;
 var item2__ = "hello world";
 console.log(item);

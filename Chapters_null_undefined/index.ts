@@ -1,7 +1,7 @@
 var item: null | string = null;
-var item2: null | string = "hello world";
+var item2__: null | string = "hello world";
 console.log(item);
-console.log(item2);
+console.log(item2__);
 
 var username: undefined | string = undefined;
 var val = null;

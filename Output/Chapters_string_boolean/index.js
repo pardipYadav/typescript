@@ -1,0 +1,15 @@
+"use strict";
+var str1 = "Hello world";
+var str2 = "hello new world";
+var age = 30;
+var username__ = "My name is pardeep";
+var info = `${username__} and age is ${age}`;
+console.log(info);
+var number = 100;
+var data___ = number.toString();
+var d1 = " " + number;
+console.log(typeof d1);
+var item___ = true;
+var other__;
+other__ = item___;
+console.log(other__);
